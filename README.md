@@ -10,6 +10,35 @@ Hi, I'm Iulia, and this is my TOPICS sensation project. It will show how I coded
 
 If you click on one of the icons, it will go to the link of each one.
 
+Here is the link to how I coded the program "Hello World!" in R. 
+
+
+
+
+
+ Java was also one of the three langauges I programmed "Hello World!". The link below will present how I did the 
+ program in Java.
+ 
+ 
+ 
+ 
+ 
+ The last link below this sentence will show and present the coding I did in Python.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ >I
+ >U
+ >L
+ >I
+ >A
+
 
 
 
