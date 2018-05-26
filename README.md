@@ -10,19 +10,19 @@ image/4902/5x2/790/316/2cda8cf25202f0bf69a33703091555e/ug/java.png0](https://en.
 
 If you click on one of the icons, it will go to the link of each one.
 
-Here is the link to how I coded the program "Hello World!" in R. 
+Here is the link to how I coded the program "Hello World!" in R:
 
 
 
 
 
-Here is the link to how I coded the program "Hello World!" in Java.
+Here is the link to how I coded the program "Hello World!" in Java:
  
  
  
  
  
- Here is the link to how I coded the program "Hello World!" in Python.
+ Here is the link to how I coded the program "Hello World!" in Python:
  
  
  
