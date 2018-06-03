@@ -15,7 +15,7 @@ myfirstfunction()
 ```
 Step 5: If this has been done precisely, press the "Run" button.     
 Step 6: In the console, the correct output should be: "Hello world! sqrt of 2 is ...1.4142135623730951"      
-            
+ ______________________________           
                        
                         
    # How to run my program in Python (2 ways!)   
@@ -26,7 +26,7 @@ Step 1: Open command line, and copy the following:
 ProgramData\Anaconda3\python.exe "C:\noi\iulia\prj\Topics-Sensation\Python\Hello_World_Python_Coding.py"
 Step 2: Simply press enter, your output *should* look like this:    
 "Hello world! sqrt of 2 is ...1.4142135623730951"      
-    
+   _____
     
     Way 2  
 Step 1: Open Anaconda Prompt.
