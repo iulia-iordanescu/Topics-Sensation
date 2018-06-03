@@ -1,4 +1,4 @@
-Step 1: Got to [Anaconda](https://www.anaconda.com/). There, you should find a download button and choose your operating system (e.g. Windows), and the desired python version (e.g. Python 3.6).                
+Step 1: Go to [Anaconda](https://www.anaconda.com/). There, you should find a download button and choose your operating system (e.g. Windows), and the desired python version (e.g. Python 3.6).                
 Step 2: After installation, launch Anaconda Navigator.          
 Step 3: Choose your prefered IDE (Spyder, Jupyter Notebook, Vscode...).      
 Step 4: In the case you've chosen Spyder, copy and paste the following:        
