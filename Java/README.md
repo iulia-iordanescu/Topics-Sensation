@@ -10,4 +10,4 @@ Step 2: To run the program, type in the following:
 "C:\Program Files\Java\jdk-10.0.1\bin\java.exe" Hello_World_Java_Coding
 Step 3: If this has been done with success, your output *should* be:    
 Hello, World
-sqrt of 3 is 1.73205080757
+sqrt of 2 is ...1.4142135623730951
