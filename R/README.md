@@ -31,29 +31,21 @@ myfirstfunction <- function() {
  myfirstfunction()
  
  ```         
-  > Step 4: If this has been done correctly, the output should be:[1] "Hello world! sqrt of 2 is ... 1.4142135623731"   
- 
- > To use R.exe (non-interactively) do:          
- > Step 1: Copy and paste the following command in command line(Note: Close the R before doing this step):      
+  > Step 4: If this has been done correctly, the output should be:   
+  ```
+  [1] "Hello world! sqrt of 2 is ... 1.4142135623731"   
+ ```
+ > To use R.exe (non-interactively) do:                    
+ > Step 1: Copy and paste the following command in command line(Note: Close the R before doing this step):  
+ ```
 C:\Users\copiii\Documents\R\R-3.5.0\bin\x64\R.exe CMD BATCH "C:\noi\iulia\prj\Topics-Sensation\R\Hello_World_R_Coding.R" "C:\noi\crt_output.txt"   
+```
  > Step 2: After doing this, go to the file (noi), and there you should be able to find "crt_output.txt"  
  > Step 3: When you open "crt_output.txt" you will find that your output is:    
+```
 "Hello world! sqrt of 2 is ... 1.4142135623731"
+```
 
 
 
 
-
-C:\Users\copiii\Documents\R\R-3.5.0\bin\x64\R.exe CMD BATCH "C:\noi\iulia\prj\Topics-Sensation\R\Hello_World_R_Coding.R" "C:\noi\crt_output.txt"
-
-
-
-
-
-
-C:\Users\copiii\Documents\R\R-3.5.0\bin\x64\Rscript.exe "C:\noi\iulia\prj\Topics-Sensation\R\Hello_World_R_Coding.R"  
-[1] "Hello world! sqrt of 2 is ... 1.4142135623731"
-
-C:\Users\copiii\Documents\R\R-3.5.0\bin\x64\R.exe CMD BATCH "C:\noi\iulia\prj\Topics-Sensation\R\Hello_World_R_Coding.R" "C:\noi\crt_output.txt"
-
-C:\Users\copiii\Documents\R\R-3.5.0\bin\x64\R.exe
