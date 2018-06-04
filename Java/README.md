@@ -3,7 +3,7 @@ Step 2:
 
 
 
-#Run the Hello World program steps.
+### Run the Hello World program steps.
 Step 1: Copy and paste the following to first compile your program:    
 "C:\Program Files\Java\jdk-10.0.1\bin\javac.exe" Hello_World_Java_Coding.java 
 Step 2: To run the program, type in the following:   
