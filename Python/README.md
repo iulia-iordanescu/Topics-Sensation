@@ -23,9 +23,13 @@ Step 6: In the console, the correct output should be: "Hello world! sqrt of 3 is
     Way 1
 
 Step 1: Open command line, and copy the following:                                      
-ProgramData\Anaconda3\python.exe "C:\noi\iulia\prj\Topics-Sensation\Python\Hello_World_Python_Coding.py"                                            
-Step 2: Simply press enter, your output *should* look like this:                        
-"Hello world! sqrt of 3 is ...1.73205080757"                                
+```
+ProgramData\Anaconda3\python.exe "C:\noi\iulia\prj\Topics-Sensation\Python\Hello_World_Python_Coding.py"    
+```
+Step 2: Simply press enter, your output *should* look like this:                                
+```
+"Hello world! sqrt of 3 is ...1.73205080757"      
+```
    _____
     
     Way 2  
@@ -34,7 +38,10 @@ Step 2: Copy and paste the following line, and paste it in the Anaconda Prompt:
 ```
 python "C:\noi\iulia\prj\Topics-Sensation\Python\Hello_World_Python_Coding.py" 
 ```
-Once that has been accomplished, press enter, and the correct output should be: "Hello world! sqrt of 3 is ...1.73205080757"                   
+Once that has been accomplished, press enter, and the correct output should be:    
+```
+"Hello world! sqrt of 3 is ...1.73205080757"  
+```
 
 
 
